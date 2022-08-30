@@ -1,0 +1,48 @@
+[History]
+1=#P0#=mb	#P1#=BackgroundImage	#P2#=Proyecto1/uAOProgress/BackgroundImage [Set]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829215514	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=BackgroundImage	#P2#=Proyecto1/uAOProgress/BackgroundImage [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829215328	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=BackgroundImage	#P2#=Proyecto1/uAOProgress/BackgroundImage [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829215404	#P7#=0	#P8#=8	.
+4=#P0#=mb	#P1#=Value	#P2#=Proyecto1/uAOProgress/Value [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829214509	#P7#=0	#P8#=31	.
+5=#P0#=mb	#P1#=DrawBar	#P2#=Proyecto1/uAOProgress/DrawBar	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220829214354	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=Min	#P2#=Proyecto1/uAOProgress/Min [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829213236	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=Value	#P2#=Proyecto1/uAOProgress/Value [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829213222	#P7#=0	#P8#=14	.
+8=#P0#=mb	#P1#=Animado	#P2#=Proyecto1/uAOProgress/Animado [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829213218	#P7#=0	#P8#=11	.
+9=#P0#=mb	#P1#=UserControl_Resize	#P2#=Proyecto1/uAOProgress/UserControl_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829213318	#P7#=0	#P8#=-1	.
+10=#P0#=mb	#P1#=UserControl_InitProperties	#P2#=Proyecto1/uAOProgress/UserControl_InitProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829213754	#P7#=0	#P8#=1	.
+11=#P0#=mb	#P1#=ResizeLabel	#P2#=Proyecto1/uAOProgress/ResizeLabel	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220829214107	#P7#=0	#P8#=14	.
+12=#P0#=mb	#P1#=UseBackground	#P2#=Proyecto1/uAOProgress/UseBackground [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211655	#P7#=0	#P8#=11	.
+13=#P0#=mb	#P1#=UserControl_ReadProperties	#P2#=Proyecto1/uAOProgress/UserControl_ReadProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829215053	#P7#=0	#P8#=31	.
+14=#P0#=mb	#P1#=DrawStat	#P2#=Proyecto1/uAOProgress/DrawStat	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220829213205	#P7#=0	#P8#=0	.
+15=#P0#=mb	#P1#=FontUnderline	#P2#=Proyecto1/uAOProgress/FontUnderline [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211536	#P7#=0	#P8#=3	.
+16=#P0#=mb	#P1#=FontBold	#P2#=Proyecto1/uAOProgress/FontBold [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211525	#P7#=0	#P8#=3	.
+17=#P0#=mb	#P1#=tTimer_Timer	#P2#=Proyecto1/uAOProgress/tTimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829215439	#P7#=0	#P8#=12	.
+18=#P0#=mb	#P1#=tDanger_Timer	#P2#=Proyecto1/uAOProgress/tDanger_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829213022	#P7#=0	#P8#=18	.
+19=#P0#=mb	#P1#=MinDanger	#P2#=Proyecto1/uAOProgress/MinDanger [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211343	#P7#=0	#P8#=6	.
+20=#P0#=mb	#P1#=BackSubColor	#P2#=Proyecto1/uAOProgress/BackSubColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211324	#P7#=0	#P8#=10	.
+21=#P0#=mb	#P1#=BackAddColor	#P2#=Proyecto1/uAOProgress/BackAddColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211318	#P7#=0	#P8#=11	.
+22=#P0#=mb	#P1#=BackAddColor	#P2#=Proyecto1/uAOProgress/BackAddColor [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211307	#P7#=0	#P8#=3	.
+23=#P0#=mb	#P1#=CustomText	#P2#=Proyecto1/uAOProgress/CustomText [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211255	#P7#=0	#P8#=11	.
+24=#P0#=mb	#P1#=ShowText	#P2#=Proyecto1/uAOProgress/ShowText [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211249	#P7#=0	#P8#=16	.
+25=#P0#=mb	#P1#=ShowShadow	#P2#=Proyecto1/uAOProgress/ShowShadow [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211235	#P7#=0	#P8#=5	.
+26=#P0#=mb	#P1#=Max	#P2#=Proyecto1/uAOProgress/Max [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829214550	#P7#=0	#P8#=31	.
+27=#P0#=mb	#P1#=BorderColor	#P2#=Proyecto1/uAOProgress/BorderColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211147	#P7#=0	#P8#=15	.
+28=#P0#=mb	#P1#=BackColor	#P2#=Proyecto1/uAOProgress/BackColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211129	#P7#=0	#P8#=11	.
+29=#P0#=mb	#P1#=BackgroundColor	#P2#=Proyecto1/uAOProgress/BackgroundColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829214023	#P7#=0	#P8#=12	.
+30=#P0#=mb	#P1#=BackgroundColor	#P2#=Proyecto1/uAOProgress/BackgroundColor [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211109	#P7#=0	#P8#=8	.
+31=#P0#=mb	#P1#=ForeColor	#P2#=Proyecto1/uAOProgress/ForeColor [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211104	#P7#=0	#P8#=11	.
+32=#P0#=mb	#P1#=ForeColor	#P2#=Proyecto1/uAOProgress/ForeColor [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211047	#P7#=0	#P8#=7	.
+33=#P0#=mb	#P1#=FontName	#P2#=Proyecto1/uAOProgress/FontName [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211026	#P7#=0	#P8#=3	.
+34=#P0#=mb	#P1#=FontName	#P2#=Proyecto1/uAOProgress/FontName [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829211017	#P7#=0	#P8#=8	.
+35=#P0#=mb	#P1#=FontSize	#P2#=Proyecto1/uAOProgress/FontSize [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210944	#P7#=0	#P8#=8	.
+36=#P0#=mb	#P1#=FontSize	#P2#=Proyecto1/uAOProgress/FontSize [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210935	#P7#=0	#P8#=3	.
+37=#P0#=mb	#P1#=FontUnderline	#P2#=Proyecto1/uAOProgress/FontUnderline [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210929	#P7#=0	#P8#=3	.
+38=#P0#=mb	#P1#=FontItalic	#P2#=Proyecto1/uAOProgress/FontItalic [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210919	#P7#=0	#P8#=8	.
+39=#P0#=mb	#P1#=FontItalic	#P2#=Proyecto1/uAOProgress/FontItalic [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210907	#P7#=0	#P8#=3	.
+40=#P0#=mb	#P1#=FontBold	#P2#=Proyecto1/uAOProgress/FontBold [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210852	#P7#=0	#P8#=7	.
+41=#P0#=mb	#P1#=Font	#P2#=Proyecto1/uAOProgress/Font [Set]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210731	#P7#=0	#P8#=3	.
+42=#P0#=mb	#P1#=Font	#P2#=Proyecto1/uAOProgress/Font [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829210720	#P7#=0	#P8#=3	.
+43=#P0#=mb	#P1#=UserControl_WriteProperties	#P2#=Proyecto1/uAOProgress/UserControl_WriteProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829215107	#P7#=0	#P8#=27	.
+44=#P0#=mb	#P1#=lblStat_MouseUp	#P2#=Proyecto1/uAOProgress/lblStat_MouseUp	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20220829210459	#P7#=0	#P8#=1	.
+45=#P0#=mb	#P1#=picBar_MouseDown	#P2#=Proyecto1/uAOProgress/picBar_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220829210424	#P7#=0	#P8#=6	.
+46=#P0#=mb	#P1#=ShowText	#P2#=Proyecto1/uAOProgress/ShowText [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829202910	#P7#=0	#P8#=3	.
+47=#P0#=mb	#P1#=ShowShadow	#P2#=Proyecto1/uAOProgress/ShowShadow [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220829202736	#P7#=0	#P8#=11	.
