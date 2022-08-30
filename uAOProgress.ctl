@@ -426,7 +426,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let Enabled(ByVal NewValue As Boolean)
+Public Property Set Enabled(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -453,7 +453,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let Animado(ByVal NewValue As Boolean)
+Public Property Set Animado(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -480,7 +480,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let UseBackground(ByVal NewValue As Boolean)
+Public Property Set UseBackground(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -536,7 +536,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let FontBold(ByVal NewValue As Boolean)
+Public Property Set FontBold(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -563,7 +563,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let FontItalic(ByVal NewValue As Boolean)
+Public Property Set FontItalic(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -590,7 +590,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let FontUnderline(ByVal NewValue As Boolean)
+Public Property Set FontUnderline(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -617,7 +617,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let FontSize(ByVal NewValue As Integer)
+Public Property Set FontSize(ByVal NewValue As Integer)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -644,7 +644,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let FontName(ByVal NewValue As String)
+Public Property Set FontName(ByVal NewValue As String)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -671,7 +671,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let ForeColor(ByVal NewValue As OLE_COLOR)
+Public Property Set ForeColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -698,7 +698,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let BackgroundColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BackgroundColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -725,7 +725,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let BackColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BackColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -752,7 +752,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let BorderColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BorderColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -770,7 +770,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let Value(ByVal NewValue As Long)
+Public Property Set Value(ByVal NewValue As Long)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -800,7 +800,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let Max(ByVal NewValue As Long)
+Public Property Set Max(ByVal NewValue As Long)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 25/08/2012
@@ -857,7 +857,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let Min(ByVal NewValue As Long)
+Public Property Set Min(ByVal NewValue As Long)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -900,7 +900,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let ShowShadow(ByVal NewValue As Boolean)
+Public Property Set ShowShadow(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -927,7 +927,7 @@ On Error Resume Next
     
 End Property
 
-Public Property Let ShowText(ByVal NewValue As Boolean)
+Public Property Set ShowText(ByVal NewValue As Boolean)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -961,7 +961,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let CustomText(ByVal NewValue As String)
+Public Property Set CustomText(ByVal NewValue As String)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -990,7 +990,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let BackAddColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BackAddColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -1018,7 +1018,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let BackSubColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BackSubColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -1046,7 +1046,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let BackDangerColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BackDangerColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -1073,7 +1073,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let MinDanger(ByVal NewValue As Long)
+Public Property Set MinDanger(ByVal NewValue As Long)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -1100,7 +1100,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let BackgroundDangerColor(ByVal NewValue As OLE_COLOR)
+Public Property Set BackgroundDangerColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
@@ -1127,7 +1127,7 @@ On Error Resume Next
 End Property
 
 
-Public Property Let ShadowTextColor(ByVal NewValue As OLE_COLOR)
+Public Property Set ShadowTextColor(ByVal NewValue As OLE_COLOR)
 '*************************************************
 'Author: ^[GS]^
 'Last modified: 29/08/2022
